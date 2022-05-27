@@ -1,5 +1,4 @@
 from requests import get
-from re import findall
 from rubika.client import Bot
 import time
 import requests
