@@ -3,4 +3,3 @@ pillow
 pyfiglet
 colorama
 requests
-re
