@@ -1,1 +1,6 @@
 rubika
+PIL
+pyfiglet
+colorama
+requests
+re
